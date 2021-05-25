@@ -1,2 +1,2 @@
-# Slayex-Kay-t
-bu kadar kullanın işte 
+# atlantis-register
+Atlantis kayıt botu Striga Register

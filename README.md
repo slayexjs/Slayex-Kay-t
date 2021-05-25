@@ -1,2 +1,2 @@
-# atlantis-register
-Atlantis kayıt botu Striga Register
+Slayex kayıt botu
+
